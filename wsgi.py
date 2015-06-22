@@ -91,7 +91,8 @@ class Hello(object):
         cherrypy.session['count'] = thecount
         # 印出讓使用者輸入的超文件表單
         outstring = '''
-    40123248
+    40123237
+    40123143
     <br/>
     <a href="drawspur">drawspur</a>
     <br/>
